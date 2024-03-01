@@ -5,10 +5,13 @@
 This project is the result of my participation in the Altium PCB Layout Challenge, where I had the opportunity to demonstrate my skills in PCB design, innovation, and engineering precision. The challenge provided a platform for enthusiasts like myself to push the boundaries of creativity in electronic design.
 
 ### Key Features
--Meticulously placed components for optimized layout
--Carefully routed traces to ensure signal integrity and reliability
--Innovative design elements to enhance functionality and aesthetics 
+-Meticulously placed components for optimized layout <br>
+-Carefully routed traces to ensure signal integrity and reliability <br>
+-Innovative design elements to enhance functionality and aesthetics <br>
 
+![Image](https://github.com/saifubhatti/altium_design_challenge_board/blob/main/Altium_Design_Challenge/Pics/PIC1.png)<br>
+![Image](https://github.com/saifubhatti/altium_design_challenge_board/blob/main/Altium_Design_Challenge/Pics/pic6.png)<br>
+![Image](https://github.com/saifubhatti/altium_design_challenge_board/blob/main/Altium_Design_Challenge/Pics/pic8.png)<br>
 
 
 ## Getting Started
